@@ -19,6 +19,6 @@ Este projeto é uma implementação de uma interface de login moderna e totalmen
 * **Estética Moderna**: Uso de fontes personalizadas (Space Grotesk) e fundo em estilo nebulosa.
 
 ## 📦 Como rodar o projeto
-1. Clique neste repositório:
+1. Copie esse link e coloque no navegador:
    ```bash
-   git clone [https://github.com/xpGabrielll/Login-Responsivo.git](https://github.com/xpGabrielll/Login-Responsivo.git)
+   git clone [https://gabrielxx7.github.io/Login-Responsivo/]
