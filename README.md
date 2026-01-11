@@ -4,7 +4,6 @@ Este projeto é uma implementação de uma interface de login moderna e totalmen
 
 ## 📸 Preview
 ![Foto do Projeto](./preview.png)
-*(Dica: Tire um print da sua tela e salve como preview.png na pasta principal)*
 
 ## 🚀 Tecnologias Utilizadas
 * **HTML5**: Estrutura semântica do formulário e botões sociais.
